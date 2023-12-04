@@ -1,7 +1,7 @@
 # hello-world
 First GitHub repository
 
-Don't know if I will ever use this one!
+Don't know if I will ever use this one! (Now I know, I still like this to be in front page, tho :) )
 
 This is a very good way to learn how to use github! Cool idea!
 
